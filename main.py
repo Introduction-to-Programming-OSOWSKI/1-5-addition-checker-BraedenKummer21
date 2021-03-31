@@ -1,7 +1,7 @@
 #WRITE YOUR CODE HERE
-def addtwoNumbers(x,y,z):
+def addCheck(x,y,z):
     if x + y == z:
         return "True"
     else:
         return "False"
-print(addtwoNumbers(1,1,2))
+print(addCheck(2,2,4))
